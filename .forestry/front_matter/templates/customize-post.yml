@@ -1,0 +1,6 @@
+---
+hide_body: false
+fields:
+- type: file
+  label: Upload post image
+  name: upload_post_image
