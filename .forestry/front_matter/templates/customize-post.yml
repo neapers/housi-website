@@ -5,5 +5,5 @@ fields:
   name: ''
   label: Enter quote here
 - type: field_group_list
-  name: menu
+  name: site.menu
   label: Menu Items
