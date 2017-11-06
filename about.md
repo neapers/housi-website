@@ -1,9 +1,8 @@
 ---
-layout: page
-title: 'About the site, the author, the life, the universe and everything more.'
+title: About the site, the author, the life, the universe and everything more.
 permalink: about/
+layout: page
 ---
-
 
 <div class="message">I've just added some random custom content here to test the CMS.</div>
 
