@@ -11,6 +11,7 @@ layout: post
 image_url: "/media/2014-01-22-thinny-2/bianca.jpg"
 page_images:
 - "/uploads/2017/11/06/11-dribbble-animation-iphone-app-ui.gif"
+- "/assets/images/luke.png"
 image.url: ''
 undefined: []
 ---
@@ -19,6 +20,8 @@ undefined: []
 Cosette is an important character in the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
 {% include image.html url="/media/2014-02-27-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+
+{% include image.html  url="/media/2014-02-27-hello-cosette/cosette.jpg"  width="100%" description=page.page_images %}
 
 This new version of Thinny comes with mobile support and some bugfixes.
 
@@ -61,21 +64,21 @@ You'll find a lot of other variables inside the file, e.g.:
 
 * `layout:_post, page_` `or_fullscreen_`: defines the layout of the page.
 
-* `title: \\\[string\\\]`: title of the post.
+* `title: \\\\\\\[string\\\\\\\]`: title of the post.
 
-* `quote: \\\[string\\\]`: a small description of the post to be shown above the title.
+* `quote: \\\\\\\[string\\\\\\\]`: a small description of the post to be shown above the title.
 
 * `dark:_true_` `or_false_`: use black font (instead of white) for the header (default value is false).
 
-* `image: \\\[url\\\] or_false_`: a cover image for the post (default value is _false_).
+* `image: \\\\\\\[url\\\\\\\] or_false_`: a cover image for the post (default value is _false_).
 
 * `video:_true_` `or_false_`: add a cover video for the post (default value is _false_).
 
-* `video_mp4: \\\[url\\\]`: the URL for the mp4 video.
+* `video_mp4: \\\\\\\[url\\\\\\\]`: the URL for the mp4 video.
 
-* `video_webm: \\\[url\\\]`: the URL for the webm video.
+* `video_webm: \\\\\\\[url\\\\\\\]`: the URL for the webm video.
 
-* `video_ogv: \\\[url\\\]`: the URL for the ogv video.
+* `video_ogv: \\\\\\\[url\\\\\\\]`: the URL for the ogv video.
 
 ## Versions
 
