@@ -7,3 +7,7 @@ fields:
 - type: file
   label: Cover Image
   name: image.url
+- type: image_gallery
+- type: image_gallery
+  name: page_images
+  label: Images
