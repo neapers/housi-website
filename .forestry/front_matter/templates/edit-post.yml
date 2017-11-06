@@ -2,7 +2,6 @@
 pages:
 - _uploads/test-post.md
 - _posts/2014-02-27-hello-cosette.md
-- _posts/2017-11-06-a-new-blog-post.md
 hide_body: false
 fields:
 - type: file

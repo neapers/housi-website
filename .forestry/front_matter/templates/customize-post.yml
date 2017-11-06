@@ -2,8 +2,8 @@
 hide_body: false
 fields:
 - type: text
-  name: quote
+  name: ''
   label: Enter quote here
-- type: file
-  name: image_url
-  label: Blog cover image
+- type: field_group_list
+  name: menu
+  label: Menu Items
