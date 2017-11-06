@@ -1,0 +1,6 @@
+---
+hide_body: false
+fields:
+- type: file
+  label: Cover Image
+  name: image_url

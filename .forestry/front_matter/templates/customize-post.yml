@@ -1,0 +1,11 @@
+---
+pages:
+- _posts/2014-02-27-hello-cosette.md
+hide_body: false
+fields:
+- type: text
+  name: quote
+  label: Enter quote here
+- type: file
+  name: image_url
+  label: Blog cover image
