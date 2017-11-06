@@ -1,6 +1,6 @@
 ---
 title: Hello, Cosette
-date: 2014-02-27 00:00:00 +0000
+date: 2014-02-27 00:00:00 Z
 quote: I've changed everything here, once and for all
 image:
   url: "/media/2014-02-27-hello-cosette/cover.jpg"
