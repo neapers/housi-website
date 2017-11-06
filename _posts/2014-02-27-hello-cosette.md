@@ -1,13 +1,14 @@
 ---
 title: Hello, Cosette
-date: 2014-02-27 00:00:00 Z
-quote: Thinny reaches a new version, with mobile support and some other cool features.
+date: 2014-02-27 00:00:00 +0000
+quote: I've changed everything here, once and for all
 image:
   url: "/media/2014-02-27-hello-cosette/cover.jpg"
 video: false
 comments: false
 theme_color: 302F2D
 layout: post
+image_url: "/media/2014-01-22-thinny-2/bianca.jpg"
 ---
 
 # Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
