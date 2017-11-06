@@ -1,4 +1,6 @@
 ---
+pages:
+- _uploads/test-post.md
 hide_body: false
 fields:
 - type: file
