@@ -1,6 +1,6 @@
 ---
 title: Hello, Cosette
-date: 2014-02-27 00:00:00 Z
+date: 2014-02-27 00:00:00 +0000
 quote: I've changed everything here, once and for all
 image:
   url: "/media/2014-02-27-hello-cosette/cover.jpg"
@@ -9,11 +9,14 @@ comments: false
 theme_color: 302F2D
 layout: post
 image_url: "/media/2014-01-22-thinny-2/bianca.jpg"
+page_images:
+- "/uploads/2017/11/06/11-dribbble-animation-iphone-app-ui.gif"
+image.url: ''
+undefined: []
 ---
-
 # Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
 
-Cosette is an important character in the french novel *Les Mis&eacute;rables*, published in 1862 by *Victor Hugo*.
+Cosette is an important character in the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
 {% include image.html url="/media/2014-02-27-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
@@ -31,41 +34,48 @@ To start, you need to change at least the variable `url` on the file.
 
 To add a social link you just need to add the following code inside the variable `social`:
 
-```
-  - icon:   [the genericon name for the social network]
-    url:    [the url to follow]
-    desc:   [a small description for the link (e.g. "Follow me on twitter")]
-```
+      - icon:   [the genericon name for the social network]
+        url:    [the url to follow]
+        desc:   [a small description for the link (e.g. "Follow me on twitter")]
 
 #### Menu
 
 To add a menu item you just need to add the following code inside the variable `menu`:
 
-```
-  - title:  [title of the menu item]
-    url:    [the url to follow]
-```
+      - title:  [title of the menu item]
+        url:    [the url to follow]
 
 #### Others
 
 You'll find a lot of other variables inside the file, e.g.:
 
 * the site `title`, `description`, `icon` and default `cover` image.
+
 * text of the `copyright` message.
+
 * the number of posts per page (`paginate`).
+
 * the `permalink`'s structure (see [the docs](http://jekyllrb.com/docs/pagination/)).
 
 ### Default YAML tags
 
-* `layout:`*`post, page`* `or`*`fullscreen`*: defines the layout of the page.
-* `title: [string]`: title of the post.
-* `quote: [string]`: a small description of the post to be shown above the title.
-* `dark:`*`true`* `or`*`false`*: use black font (instead of white) for the header (default value is false).
-* `image: [url] or`*`false`*: a cover image for the post (default value is *false*).
-* `video:`*`true`* `or`*`false`*: add a cover video for the post (default value is *false*).
-* `video_mp4: [url]`: the URL for the mp4 video.
-* `video_webm: [url]`: the URL for the webm video.
-* `video_ogv: [url]`: the URL for the ogv video.
+* `layout:_post, page_` `or_fullscreen_`: defines the layout of the page.
+
+* `title: \\\[string\\\]`: title of the post.
+
+* `quote: \\\[string\\\]`: a small description of the post to be shown above the title.
+
+* `dark:_true_` `or_false_`: use black font (instead of white) for the header (default value is false).
+
+* `image: \\\[url\\\] or_false_`: a cover image for the post (default value is _false_).
+
+* `video:_true_` `or_false_`: add a cover video for the post (default value is _false_).
+
+* `video_mp4: \\\[url\\\]`: the URL for the mp4 video.
+
+* `video_webm: \\\[url\\\]`: the URL for the webm video.
+
+* `video_ogv: \\\[url\\\]`: the URL for the ogv video.
 
 ## Versions
 
@@ -73,10 +83,10 @@ Here is a table with all Thinny's versions:
 
 | Version | Codename | Platform | Release date |
 | --- | --- | --- | --- |
-| [0.3](https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra) | [Alexandra](http://nikita2010.wikia.com/wiki/Alexandra_Udinov) | Ghost 0.3.x | November 2013 |
-| [2.0](https://github.com/camporez/Thinny/releases/tag/v2.0-bianca) | [Bianca](http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm) | Jekyll | January 2014 |
-| [2.1](https://github.com/camporez/Thinny/releases/tag/v2.1-cosette) | [Cosette](http://lesmiserables.wikia.com/wiki/Cosette) | Jekyll | February 2014 |
-| 2.2 | [Dolores](http://en.wikipedia.org/wiki/Dolores_Haze) | Jekyll | *Soon…*<sup id="fnref:2"><a class="footnote" href="#fn:2">2</a></sup> |
+| 0.3 | Alexandra | Ghost 0.3.x | November 2013 |
+| 2.0 | Bianca | Jekyll | January 2014 |
+| 2.1 | Cosette | Jekyll | February 2014 |
+| 2.2 | Dolores | Jekyll | Soon…<sup id="fnref:2"><a class="footnote" href="#fn:2">2</a></sup> |
 
 ## Download
 
