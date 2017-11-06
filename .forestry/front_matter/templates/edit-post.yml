@@ -1,7 +1,7 @@
 ---
 pages:
 - _uploads/test-post.md
-- _posts/a-new-blog-post.md
+- _posts/2017-11-06-a-new-blog-post.md
 hide_body: false
 fields:
 - type: file
