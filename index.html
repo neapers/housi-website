@@ -33,7 +33,7 @@ title: Home Page
 	{% endif %}
 </nav>
 </div>
-<footer class="clean" style="background-image: url({{ site.cover }}); background-position: bottom; bottom: 0; z-index: 4; position: absolute; height: 60px; {% if site.parallax != true %}background-attachment: scroll;{% endif %}">
+<footer class="clean" style="background-image: url({{ site.baseurl }}{{ site.cover }}); background-position: bottom; bottom: 0; z-index: 4; position: absolute; height: 60px; {% if site.parallax != true %}background-attachment: scroll;{% endif %}">
 	{% for header in site.cookies %}
 		{{ header.content }}
 	{% endfor %}
