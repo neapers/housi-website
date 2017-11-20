@@ -483,7 +483,7 @@ pre code {
 	border-color: #00BDB8;
 }
 
-.copyright {
+.copyright p {
 	color: inherit;
 	font-size: 14px;
 	text-transform: uppercase;
