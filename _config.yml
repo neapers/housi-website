@@ -21,8 +21,8 @@ author:
   name: Ian Brunelli
   url: https://google.com/+IanCamporezBrunelli
 paginate: 5
-icon: "/assets/images/icon.png"
-cover: "/assets/images/cover.jpg"
+icon: "/assets/images/logo.png"
+cover: "/assets/images/bg.png"
 social:
 - icon: twitter
   url: https://twitter.com/iancamporez
