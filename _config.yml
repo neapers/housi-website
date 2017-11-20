@@ -14,7 +14,7 @@ permalink: "/blog/:title"
 tagline: blog
 description: My personal blog.
 url: http://camporez.github.io
-baseurl: 
+baseurl: /Thinny
 commentsystem: google
 disqus: example
 author:
