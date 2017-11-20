@@ -34,7 +34,7 @@ title: Home Page
 </nav>
 </div>
 <footer class="clean copyright" style="background-image: url({{ site.baseurl }}{{ site.cover }}); background-position: bottom; bottom: 0; z-index: 4; position: absolute; height: 60px; {% if site.parallax != true %}background-attachment: scroll;{% endif %}">
-	{% for header in site.header %}
-		{{ header.content }}
+	{% for footer in site.footer %}
+		{{ footer.content }}
 	{% endfor %}
 </footer>
