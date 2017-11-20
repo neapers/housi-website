@@ -2,7 +2,7 @@
 title: Thinny
 timezone: UTC
 collections:
-  cookies:
+  header:
   posts:
     title: Posts
     output: true
