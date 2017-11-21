@@ -1,5 +1,5 @@
 ---
-title: Thinny
+title: Housi
 timezone: UTC
 collections:
   footer:
@@ -14,12 +14,11 @@ permalink: "/blog/:title"
 tagline: blog
 description: My personal blog.
 url: http://camporez.github.io
-baseurl: /Thinny
+baseurl: /housi-website
 commentsystem: google
 disqus: example
 author:
-  name: Ian Brunelli
-  url: https://google.com/+IanCamporezBrunelli
+  name: Brendan Johnson
 paginate: 5
 icon: "/assets/images/logo.png"
 cover: "/assets/images/bg.png"
