@@ -13,7 +13,7 @@ markdown: kramdown
 permalink: "/blog/:title"
 tagline: blog
 description: My personal blog.
-url: https://neapers.github.io
+url: http://housi.co
 baseurl: /
 commentsystem: google
 disqus: example
