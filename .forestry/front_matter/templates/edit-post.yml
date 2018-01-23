@@ -1,5 +1,6 @@
 ---
 pages:
+- blog.md
 - _uploads/test-post.md
 - _posts/2014-02-27-hello-cosette.md
 hide_body: false
