@@ -1,20 +1,34 @@
 ---
 layout: page
-title: About the site, the author, the life, the universe and everything more.
+title: " Art Deco in Australia"
 permalink: about/
 ---
-<div class="message">I've just added some random custom content here to test the CMS.</div>
+Art deco, short for _Arts_ Décoratifs is a style of visual arts, architecture and design that was the all the rage between WW1 and WW2. Its influence was profound, with cars, jewelry fashion, trains, ocean liners, and importantly architecture everything took a new exciting shape. 
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Vivamus eget neque fringilla, pulvinar odio sit amet, malesuada ligula. Curabitur aliquam tempor nibh vel convallis. Integer erat dolor, convallis nec felis at, gravida volutpat magna. Fusce nec nunc id risus tempus luctus. Integer vehicula ipsum fermentum est lobortis condimentum. Nulla at placerat ipsum, quis mollis dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum a sagittis velit. Etiam non diam quis massa fermentum tristique. Cras porta, magna a malesuada facilisis, magna diam mattis odio, ac placerat erat erat a orci. Proin id metus nulla. In at nisi eu nisi elementum tincidunt eu at ipsum. Praesent condimentum varius quam, a rutrum sem ultricies eu. Quisque nisl sem, lobortis et laoreet mattis, faucibus at quam. Suspendisse potenti. Nunc eget purus eget metus convallis auctor eu in libero.
+Art deco represented luxury, glamour, exuberance, and a progressive society that wasn’t afraid of the brave new world.
 
-Aliquam vulputate augue magna, sit amet volutpat odio adipiscing non. Nulla congue orci tortor, a facilisis felis faucibus sit amet. Sed aliquam nibh id ornare sagittis. Cras faucibus, est aliquam sollicitudin consectetur, elit urna eleifend nunc, consectetur malesuada odio nulla a justo. Aliquam id elit nisl. Fusce quis mauris massa. Etiam quis adipiscing ligula. Suspendisse nec mi posuere, gravida mi in, volutpat libero. Etiam tempus facilisis erat. Nulla eget porta turpis, id porttitor tellus. Aenean posuere sollicitudin condimentum. Vestibulum gravida dolor nec nisl pellentesque consequat. Nam et commodo arcu.
+ 
 
-Sed ultrices viverra condimentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec sodales mi, vel posuere sem. Nullam ultrices tellus enim, a iaculis urna facilisis ac. Donec euismod egestas nisi, sit amet viverra felis volutpat malesuada. Nunc tincidunt arcu nunc, ac commodo mauris tristique quis. Curabitur et risus fringilla, semper odio at, tristique enim. Suspendisse varius, augue et commodo feugiat, magna tellus vestibulum turpis, et aliquet odio erat eget arcu. Nam tincidunt porttitor tincidunt. Nullam metus sapien, pretium at nisi quis, malesuada cursus tortor. Sed interdum turpis ante, ac feugiat odio ultrices at. Cras ornare quam ipsum, at sagittis libero interdum at. Donec consequat dignissim risus, sed mollis urna rutrum vel. Morbi dapibus feugiat tellus dictum blandit.
+Art deco has become the choice of many buyers looking in established trendy pockets around Sydney Harbour, the lower North shore and inner Melbourne suburbs. It is also the favoure choice of many developers and interior designers in new their new projects. 
 
-Nulla id erat a neque mattis dignissim sit amet eget nunc. Nulla facilisi. Praesent vitae venenatis nisi. Donec varius a mi vitae tristique. Vivamus vitae sapien ac justo malesuada adipiscing. Praesent neque risus, laoreet quis vehicula sit amet, ullamcorper id arcu. Maecenas eleifend quam in purus auctor molestie. In hac habitasse platea dictumst. Praesent non felis aliquam, vestibulum tortor eget, lobortis eros. Ut accumsan nisl sapien, eget pretium magna porttitor et. Nam hendrerit dui velit, ac pharetra ante tristique ac. Suspendisse vitae arcu justo.
+ ![](/uploads/2018/01/24/image.png)
 
-Ut sit amet mollis velit. Vivamus eget diam id diam convallis molestie et sagittis diam. Vestibulum pharetra tristique est vel adipiscing. In a est dignissim, auctor magna at, cursus leo. Maecenas varius augue non lacinia eleifend. Fusce tempor elementum rutrum. Donec dolor tortor, condimentum sed vehicula vitae, vehicula at leo. Sed malesuada pulvinar nibh, nec tristique orci semper sed. Aenean risus nisl, placerat vel euismod quis, posuere rhoncus dolor. In quis ante placerat, euismod risus ut, congue dui. Duis luctus semper nunc vel pulvinar. Donec consequat, lorem nec rutrum venenatis, nisi neque pulvinar libero, id venenatis massa magna quis nisl. Nam sit amet tincidunt nunc. Suspendisse sem eros, blandit quis luctus sit amet, feugiat eu tellus. Suspendisse ac consectetur risus. Etiam in hendrerit magna, id tempus eros.
+In the past buyers of Art deco apartments have gone to some trouble to hide the features, painting over exposed wood, and plastering over ceiling molds. Removing the beautiful stain glass windows, changing the flooring has been a common tactic to contemporize a building. More recently there has been a noticeable shift with renovators looking to hero art deco features, and accentuate the style with furniture choices and art works.
 
-Morbi euismod suscipit suscipit. Phasellus a arcu ac turpis lacinia dictum. Mauris imperdiet commodo quam et condimentum. Aenean est ligula, hendrerit et varius quis, luctus et lorem. Aliquam vestibulum et magna nec aliquam. Suspendisse eu ultricies lectus. Duis vel lorem ut quam bibendum viverra. Curabitur scelerisque, mauris dignissim dignissim egestas, tortor eros pellentesque nunc, ac elementum justo libero sollicitudin erat. Suspendisse suscipit orci eu nibh elementum, non cursus turpis ullamcorper. Integer vehicula libero et tellus vulputate, eu aliquam diam placerat. Morbi pharetra, urna quis bibendum vulputate, nibh nisl dictum risus, et cursus tortor tortor id libero. Integer accumsan, enim sit amet blandit ultricies, diam elit condimentum justo, quis adipiscing dolor eros non neque. Vivamus commodo sem libero, sit amet tincidunt nisi accumsan vitae. Donec nec sem nunc. Phasellus sed placerat erat. Integer nisi lectus, cursus a est id, gravida aliquam purus.
+ 
 
-Good bye, and thank’s for all the fish!
+The style is becoming so popular that many buyers specific that they are only interested in art deco buildings. Generally, in comparison to modern builds, Art Deco buildings are larger, have higher ceilings, and are often of a better build quality. Often the foyers in apartment buildings are grand with highly polished wooden features, grand carpets and ornate lighting. The exterior design moved away from organic shapes, favoring cubism and geometric shapes. Balconies are a less common feature of art deco buildings, giving the interiors an almost New York living style. 
+
+ 
+
+Another style that is common and prized around certain Eastern Suburbs enclaves including Bondi Beach is P&O, a style taking its name from Ocean Liners of the time. The key features of these buildings while keeping with some traditional art deco styles, are often rounded facades, rendered and at times brightly colored to set them well apart. P&O has also gathered a strong following and are reminiscent of a time gone by. 
+
+ ![](/uploads/2018/01/24/2_guq3ld.jpg)
+
+In many of the above-mentioned suburbs developers have noticed these trends, many are building apartments to echo these features in a modern way. In Potts Pont ‘[The Hensley’](https://www.domain.com.au/news/new-apartment-development-the-hensley-brings-art-deco-elegance-back-to-potts-point-20160607-gpdcr1/) has been hailed as the new development to bring back art deco elegance to Potts Point. The Hampton only just up the road was a development that many believe started the trend. In Double Bay, the $100 million dollar Development ‘[1788 Residences](http://www.1788doublebay.com.au)’ saw the record price for a double Bay apartment of $13.75 million. The development as well as all of its marketing takes its cues from the Art Deco style, while having a modern open plan feeling. 
+
+ ![](/uploads/2018/01/24/image.png)
+
+Art Deco is a highly desired style that is making a massive come back not only in renovated buildings of the time, but also new developments. Time will tell how these new additions to the Art Deco legacy compare with their predecessors.
+
+ ![](/uploads/2018/01/23/image (2).png)
